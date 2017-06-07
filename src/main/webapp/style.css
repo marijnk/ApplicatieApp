@@ -1,0 +1,103 @@
+@CHARSET "ISO-8859-1";
+
+fieldset {
+border: none;
+}   
+
+.tekstveld{
+	width:16em;
+	height:6em;
+}
+
+.submit{
+	margin: 2em;
+}
+
+label{
+	display:block;
+}
+
+.veld_reset{
+	display:block;	
+	width: 33%
+}
+
+.x{
+	float:right;
+}
+
+
+
+.vakken{
+border:thin solid #777;
+margin:1em;
+}
+
+.aanvrdiv{
+border:thin solid #777;
+width: auto;
+margin-right:0.5em;
+margin-left:0.5em;
+height: 5em;
+}
+
+.levdiv{
+border:thin solid #777;
+width: auto;
+margin-right: 0.5em;
+margin-left:0.5em;
+margin-bottom: 0.5em;
+height:5em;
+}
+
+.vakken p{
+	color: black;
+    font-size: 14px;
+    margin-top: 0.5em;
+	margin-left: 0.5em;
+	margin-bottom:0;
+}
+
+.laadmeer{
+	width: 10em;
+	height: 6em;
+	margin-top: 5em;
+}
+
+#laadmeer{
+	text-align:center;
+}
+
+#laadmeerdiv{
+	text-align:center;
+}
+
+#laadmeerknop{
+	margin-bottom:2em;
+}
+
+.button{
+	display:inline;
+}
+
+#zoekbar{
+	display:inline;
+	float:right;
+}
+
+.zoekbalk{
+	display:inline;
+}
+
+.zoekveld{
+	margin:3em;
+}
+
+#search{
+	width: 40em;
+}
+
+.form-group{
+	margin-left: 3em;
+}
+	
